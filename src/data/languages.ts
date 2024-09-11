@@ -50,4 +50,9 @@ export const languages: Language[] = [
     shortcut: "swift",
     icon: "swift.png"
   },
+  {
+    language: "html",
+    shortcut: "html",
+    icon: "html.png"
+  }
 ]
